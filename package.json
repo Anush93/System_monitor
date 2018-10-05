@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Anush93/System_monitor#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "cpu-stats": "^1.0.0",
     "express": "^4.16.3"
   }
 }
